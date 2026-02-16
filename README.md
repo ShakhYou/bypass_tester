@@ -21,7 +21,7 @@ A powerful Python tool for testing access control vulnerabilities through 140+ b
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/bypass-tester.git](https://github.com/ShakhYou/401_403_bypasser.git)
+git clone [https://github.com/ShakhYou/bypass_tester.git]
 cd bypass-tester
 
 # Install dependencies
